@@ -1,0 +1,6 @@
+base_url: "http://localhost:8080"   # change to your mock/Postman mock server if needed
+auth:
+  token: ""  # if you simulate auth later
+request:
+  timeout: 10
+  retries: 2
